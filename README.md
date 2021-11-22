@@ -17,5 +17,5 @@ I am comfortable with the following Technologies.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gsvprharsha&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsvprharsha&layout=compact)
 
 # Find Me On
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - @gsvprharsha<br>
-![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - Prharsha G
+![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - Prharsha G<br>
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - @gsvprharsha
