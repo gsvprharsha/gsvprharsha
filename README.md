@@ -14,7 +14,7 @@ I am comfortable with the following Technologies.
 ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 # Github Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gsvprharsha&show_icons=true&theme=radical) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsvprharsha&layout=compact)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gsvprharsha&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsvprharsha&layout=compact)
 
 # Find Me On
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - @gsvprharsha
