@@ -19,3 +19,4 @@ I am comfortable with the following Technologies.
 # Find Me On
 ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - Prharsha G<br>
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - @gsvprharsha
+![Github](https://img.shields.io/github/followers/gsvprharsha)
