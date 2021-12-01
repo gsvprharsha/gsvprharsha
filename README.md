@@ -13,6 +13,11 @@ I am comfortable with the following Technologies.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+# Operating Systems
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 # Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gsvprharsha&show_icons=true&theme=midnight-purple) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsvprharsha&layout=midnight-purple)
 
