@@ -78,6 +78,7 @@
     <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
     <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     <img alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 ### 🗄️ Cloud and Containerization  
