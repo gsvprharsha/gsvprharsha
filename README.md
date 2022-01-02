@@ -67,6 +67,7 @@
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
     <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
     <img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 ### 🧰 Frameworks, libraries and other technologies
@@ -78,7 +79,6 @@
     <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
     <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     <img alt="Wix" src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
 ### 🗄️ Cloud and Containerization  
