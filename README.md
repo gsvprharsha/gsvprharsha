@@ -49,7 +49,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/gsvprharsha">
-    <img title="My Github Streak Stats" alt="gsvprharsha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gsvprharsha&theme=monokai-metallian&hide_border=true"/>
+    <img title="My Github Streak Stats" alt="gsvprharsha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gsvprharsha&theme=monokai-metallian&hide_border=true">
   </a>
 </p>
 
