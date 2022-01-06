@@ -44,17 +44,6 @@
   <a href="https://github.com/gsvprharsha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/gsvprharsha">
-    <img title="My Github Streak Stats" alt="gsvprharsha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gsvprharsha&theme=monokai-metallian&hide_border=true">
-  </a>
-</p>
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
