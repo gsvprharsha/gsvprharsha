@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&lines=Cyber+Security+Undergrad;Malware+Analyst;Penetration+Tester"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&vCenter=true&lines=Cyber+Security+Undergrad;Malware+Analyst;Penetration+Tester;Reverse+Engineer"></a>
 </p>
 
 <p align="center">
