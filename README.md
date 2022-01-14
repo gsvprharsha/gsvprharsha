@@ -18,7 +18,7 @@
 
 ## A little about me:
 <p>
-  <b>A computer science undergraduate from VIT.
+  <b>A computer science undergraduate from VIT Bhopal.
     <li>Cybersecurity Enthusiast.</li>
     <li>Researcher in the field of Nature Inspired Cyber Security(NICS).</li>
     <li>Familiar in Programming with Python, Shell, C and C++.</li>
