@@ -1,4 +1,3 @@
-<!--Thanks to @DenverCoder1 for his readme, which inspired me to create this -->
 <h3 align="center">
   Welcome to Prharsha's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
