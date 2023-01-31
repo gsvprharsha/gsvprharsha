@@ -21,11 +21,11 @@
     <li>Cybersecurity Enthusiast.</li>
     <li>Researcher in the field of Nature Inspired Cyber Security(NICS).</li>
     <li>Familiar in Programming with Python, Shell, C and C++.</li>
-    <li>Doing Competitive Programming.</li>
-    <li>Reverse engineering, Malware analysis, cloud security, OSINT are some of my interests.</li>
+    <li>Practicing Competitive Programming.</li>
+    <li>Reverse engineering, Malware analysis are my interests.</li>
     <li>CTF Player at TryHackme & HackTheBox.</li>
     <li>Part Time Malware Analyst.</li>
-    <li>Apart from that, I read a lot of Blogs/Writeups/Books/Research Papers on cybersecurity.</li></b>
+    <li>Apart from that, I read a lot of Blogs/Writeups/Books/Research Papers on malware/malware analysis.</li></b>
 </p>
 
 ## 📘 My open source projects
