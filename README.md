@@ -109,7 +109,7 @@
     <img alt"gsvprharsha's github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gsvprharsha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
 
 
-<img alt="gsvprharsha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gsvprharsha&theme=gotham"/></a>
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gsvprharsha&bg_color=000000&color=00ff4c&line=00ff11&point=00ff2a&area=true&hide_border=true)
 
 ## Find Me On
 <p align="center">
