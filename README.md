@@ -24,7 +24,7 @@
     <li>Practicing Competitive Programming.</li>
     <li>Reverse engineering, Malware analysis are my interests.</li>
     <li>CTF Player at TryHackme & HackTheBox.</li>
-    <li>Part Time Malware Analyst.</li>
+    <li>Aspiring Malware Analyst.</li>
     <li>Apart from that, I read a lot of Blogs/Writeups/Books/Research Papers on malware/malware analysis.</li></b>
 </p>
 
