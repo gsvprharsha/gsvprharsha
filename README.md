@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/gsvprharsha?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=330F63&labelColor=8E2DE2&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/></a>
   <a href="https://github.com/gsvprharsha">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gsvprharsha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gsvprharsha?color=330F63&labelColor=8E2DE2&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
 ## A little about me:
@@ -28,24 +28,24 @@
     <li>Apart from that, I read a lot of Blogs/Writeups/Books/Research Papers on malware/malware analysis.</li></b>
 </p>
 
-## 📘 My open source projects
+## My open source projects
 
 <p align="center">
-  <a href="https://github.com/gsvprharsha/Hunter-Framework"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Hunter-Framework&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/gsvprharsha/Br0ther_Ey3"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Br0ther_Ey3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/gsvprharsha/blackarch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=blackarch&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/gsvprharsha/backdoor-handler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gsvprharsha&repo=backdoor-handler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/gsvprharsha/port-scanner"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=port-scanner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/gsvprharsha/Lambda-Bash-Theme-For-Linux"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Lambda-Bash-Theme-For-Linux&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/gsvprharsha/Hunter-Framework"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Hunter-Framework&theme=nightowl&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/gsvprharsha/Br0ther_Ey3"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Br0ther_Ey3&theme=nightowl&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/blackarch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=blackarch&theme=nightowl&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/backdoor-handler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gsvprharsha&repo=backdoor-handler&theme=nightowl&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/port-scanner"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=port-scanner&theme=nightowl&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/Lambda-Bash-Theme-For-Linux"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Lambda-Bash-Theme-For-Linux&theme=nightowl&hide_border=true&show_icons=true"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gsvprharsha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-330F63?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 🛠️ My favorite tools
+## My favorite tools
 
-### 👨‍💻 Programming languages
+### Programming languages
 
 <p align="center">
     <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-330F63?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=8E2DE2">
@@ -62,7 +62,7 @@
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-330F63?style=for-the-badge&logo=markdown&logoColor=white&labelColor=8E2DE2">
 </p>
 
-### 🧰 Frameworks, libraries and other technologies
+### Frameworks, libraries and other technologies
 
 <p align="center">
     <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-330F63?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=8E2DE2">
@@ -73,7 +73,7 @@
     <img alt="Wix" src="https://img.shields.io/badge/Wix-330F63?style=for-the-badge&logo=wix&logoColor=white&labelColor=8E2DE2">
 </p>
 
-### 🗄️ Cloud and Containerization  
+### Cloud and Containerization  
 
 <p align="center">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-330F63?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=8E2DE2">
@@ -81,7 +81,7 @@
     <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-330F63?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=8E2DE2">
 </p>
 
-### 💻 Software and tools that I use
+### Software and tools that I use
 
 <p align="center">
     <img alt="Lenovo" src="https://img.shields.io/badge/lenovo%20laptop-330F63?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=8E2DE2">
@@ -104,7 +104,7 @@
     <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-330F63?style=for-the-badge&logo=Overleaf&logoColor=white&labelColor=8E2DE2">
 </p>
 
-## 📊 Github stats
+## Github stats
 <p align="center">
     <img alt"gsvprharsha's github stats" src="https://streak-stats.demolab.com?user=gsvprharsha&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="192px">
 
