@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/gsvprharsha?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=330F63&labelColor=8E2DE2&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=FFFFFF&labelColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gsvprharsha"/></a>
   <a href="https://github.com/gsvprharsha">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gsvprharsha?color=330F63&labelColor=8E2DE2&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gsvprharsha?color=FFFFFF&labelColor=000000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
 ## A little about me:
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gsvprharsha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-330F63?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/gsvprharsha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-FFFFFF?style=for-the-badge&logoColor=black&logo=repo"/></a>
 </p>
 
 ## My favorite tools
@@ -48,60 +48,60 @@
 ### Programming languages
 
 <p align="center">
-    <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-330F63?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=8E2DE2">
-    <img alt="Python" src="https://img.shields.io/badge/Python-330F63?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2">
-    <img alt="C" src="https://img.shields.io/badge/C-330F63?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-330F63?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8E2DE2">
-    <img alt="HTML" src="https://img.shields.io/badge/Haskell-330F63?style=for-the-badge&logo=haskell&logoColor=white&labelColor=8E2DE2">
-    <img alt="Haskell" src="https://img.shields.io/badge/HTML5-330F63?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-330F63?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-330F63?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2">
-    <img alt="Java" src="https://img.shields.io/badge/Java-330F63?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2">
-    <img alt="Scratch" src="https://img.shields.io/badge/Scratch-330F63?style=for-the-badge&logo=Scratch&logoColor=white&labelColor=8E2DE2">
-    <img alt="Latex" src="https://img.shields.io/badge/LaTeX-330F63?style=for-the-badge&logo=LaTeX&logoColor=white&labelColor=8E2DE2">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-330F63?style=for-the-badge&logo=markdown&logoColor=white&labelColor=8E2DE2">
+    <img alt="Bash" src="https://img.shields.io/badge/Shell_Script-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=000000">
+    <img alt="C" src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=white&labelColor=000000">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000">
+    <img alt="HTML" src="https://img.shields.io/badge/Haskell-FFFFFF?style=for-the-badge&logo=haskell&logoColor=white&labelColor=000000">
+    <img alt="Haskell" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=white&labelColor=000000">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000">
+    <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=white&labelColor=000000">
+    <img alt="Scratch" src="https://img.shields.io/badge/Scratch-FFFFFF?style=for-the-badge&logo=Scratch&logoColor=white&labelColor=000000">
+    <img alt="Latex" src="https://img.shields.io/badge/LaTeX-FFFFFF?style=for-the-badge&logo=LaTeX&logoColor=white&labelColor=000000">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000">
 </p>
 
 ### Frameworks, libraries and other technologies
 
 <p align="center">
-    <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-330F63?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=8E2DE2">
-    <img alt="Tor" src="https://img.shields.io/badge/Tor-330F63?style=for-the-badge&logo=Tor-Browser&logoColor=white&labelColor=8E2DE2">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-330F63?style=for-the-badge&logo=numpy&logoColor=white&labelColor=8E2DE2">
-    <img alt="Apache" src="https://img.shields.io/badge/Apache-330F63?style=for-the-badge&logo=Apache&logoColor=white&labelColor=8E2DE2">
-    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-330F63?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=8E2DE2">
-    <img alt="Wix" src="https://img.shields.io/badge/Wix-330F63?style=for-the-badge&logo=wix&logoColor=white&labelColor=8E2DE2">
+    <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000">
+    <img alt="Tor" src="https://img.shields.io/badge/Tor-FFFFFF?style=for-the-badge&logo=Tor-Browser&logoColor=white&labelColor=000000">
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000">
+    <img alt="Apache" src="https://img.shields.io/badge/Apache-FFFFFF?style=for-the-badge&logo=Apache&logoColor=white&labelColor=000000">
+    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=000000">
+    <img alt="Wix" src="https://img.shields.io/badge/Wix-FFFFFF?style=for-the-badge&logo=wix&logoColor=white&labelColor=000000">
 </p>
 
 ### Cloud and Containerization  
 
 <p align="center">
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-330F63?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=8E2DE2">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-330F63?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2">
-    <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-330F63?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=8E2DE2">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000">
+    <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-FFFFFF?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000">
 </p>
 
 ### Software and tools that I use
 
 <p align="center">
-    <img alt="Lenovo" src="https://img.shields.io/badge/lenovo%20laptop-330F63?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=8E2DE2">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-330F63?style=for-the-badge&logo=linux&logoColor=white&labelColor=8E2DE2">
-    <img alt="Android" src="https://img.shields.io/badge/Android-330F63?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2">
-    <img alt="Arch linux" src="https://img.shields.io/badge/Arch_Linux-330F63?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=8E2DE2">
-    <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-330F63?style=for-the-badge&logo=Manjaro&logoColor=white&labelColor=8E2DE2">
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-330F63?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=8E2DE2">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-330F63?style=for-the-badge&logo=debian&logoColor=white&labelColor=8E2DE2">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-330F63?style=for-the-badge&logo=windows&logoColor=white&labelColor=8E2DE2">
-    <img alt="Tor" src="https://img.shields.io/badge/Tor_Browser-330F63?style=for-the-badge&logo=Tor-Browser&logoColor=white&labelColor=8E2DE2">
-    <img alt="Brave" src="https://img.shields.io/badge/Brave-330F63?style=for-the-badge&logo=Brave&logoColor=white&labelColor=8E2DE2">
-    <img alt="Git" src="https://img.shields.io/badge/GIT-330F63?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2">
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-330F63?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=8E2DE2">
-    <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-330F63.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=8E2DE2">
-    <img alt="Ngnix" src="https://img.shields.io/badge/Nginx-330F63?style=for-the-badge&logo=nginx&logoColor=white&labelColor=8E2DE2">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-330F63?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=8E2DE2">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-330F63.svg?&style=for-the-badge&logo=Canva&logoColor=white&labelColor=8E2DE2">
-    <img alt="Libreoffice" src="https://img.shields.io/badge/LibreOffice-330F63?style=for-the-badge&logo=LibreOffice&logoColor=white&labelColor=8E2DE2">
-    <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-330F63?style=for-the-badge&logo=Overleaf&logoColor=white&labelColor=8E2DE2">
+    <img alt="Lenovo" src="https://img.shields.io/badge/lenovo%20laptop-FFFFFF?style=for-the-badge&logo=lenovo&logoColor=white&labelColor=000000">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000">
+    <img alt="Android" src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=white&labelColor=000000">
+    <img alt="Arch linux" src="https://img.shields.io/badge/Arch_Linux-FFFFFF?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=000000">
+    <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-FFFFFF?style=for-the-badge&logo=Manjaro&logoColor=white&labelColor=000000">
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-FFFFFF?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-FFFFFF?style=for-the-badge&logo=debian&logoColor=white&labelColor=000000">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000">
+    <img alt="Tor" src="https://img.shields.io/badge/Tor_Browser-FFFFFF?style=for-the-badge&logo=Tor-Browser&logoColor=white&labelColor=000000">
+    <img alt="Brave" src="https://img.shields.io/badge/Brave-FFFFFF?style=for-the-badge&logo=Brave&logoColor=white&labelColor=000000">
+    <img alt="Git" src="https://img.shields.io/badge/GIT-FFFFFF?style=for-the-badge&logo=git&logoColor=white&labelColor=000000">
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-FFFFFF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000">
+    <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-FFFFFF.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=000000">
+    <img alt="Ngnix" src="https://img.shields.io/badge/Nginx-FFFFFF?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-FFFFFF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=000000">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-FFFFFF.svg?&style=for-the-badge&logo=Canva&logoColor=white&labelColor=000000">
+    <img alt="Libreoffice" src="https://img.shields.io/badge/LibreOffice-FFFFFF?style=for-the-badge&logo=LibreOffice&logoColor=white&labelColor=000000">
+    <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-FFFFFF?style=for-the-badge&logo=Overleaf&logoColor=white&labelColor=000000">
 </p>
 
 ## Github stats
@@ -110,9 +110,9 @@
 
 ## Find Me On
 <p align="center">
-    <a href="https://gitlab.com/gsvprharsha"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=8E2DE2">
-    <a href="https://www.linkedin.com/in/prharsha-g-1ab348201"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-330F63.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E2DE2"></a>
-    <a href="https://www.instagram.com/gsvprharsha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-330F63?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8E2DE2"></a>
-    <a href="https://www.quora.com/profile/Prharsha"><img alt="Quora" src="https://img.shields.io/badge/Quora-330F63.svg?&style=for-the-badge&logo=Quora&logoColor=white&labelColor=8E2DE2"></a>
-    <a href="https://www.twitter.com/gsvprharsha/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-330F63?style=for-the-badge&logo=twitter&logoColor=white&labelColor=8E2DE2"></a>
+    <a href="https://gitlab.com/gsvprharsha"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=000000">
+    <a href="https://www.linkedin.com/in/prharsha-g-1ab348201"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"></a>
+    <a href="https://www.instagram.com/gsvprharsha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"></a>
+    <a href="https://www.quora.com/profile/Prharsha"><img alt="Quora" src="https://img.shields.io/badge/Quora-FFFFFF.svg?&style=for-the-badge&logo=Quora&logoColor=white&labelColor=000000"></a>
+    <a href="https://www.twitter.com/gsvprharsha/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"></a>
 </p>
