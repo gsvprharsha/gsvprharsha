@@ -31,12 +31,12 @@
 ## My open source projects
 
 <p align="center">
-  <a href="https://github.com/gsvprharsha/Hunter-Framework"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Hunter-Framework&theme=nightowl&hide_border=true&show_icons=true"></a>
-  <a href="https://github.com/gsvprharsha/Br0ther_Ey3"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Br0ther_Ey3&theme=nightowl&hide_border=true&show_icons=true"></a>  
-  <a href="https://github.com/gsvprharsha/blackarch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=blackarch&theme=nightowl&hide_border=true&show_icons=true"></a>  
-  <a href="https://github.com/gsvprharsha/backdoor-handler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gsvprharsha&repo=backdoor-handler&theme=nightowl&hide_border=true&show_icons=true"></a>  
-  <a href="https://github.com/gsvprharsha/port-scanner"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=port-scanner&theme=nightowl&hide_border=true&show_icons=true"></a>  
-  <a href="https://github.com/gsvprharsha/Lambda-Bash-Theme-For-Linux"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Lambda-Bash-Theme-For-Linux&theme=nightowl&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/gsvprharsha/Hunter-Framework"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Hunter-Framework&theme=graywhite&hide_border=true&show_icons=true"></a>
+  <a href="https://github.com/gsvprharsha/Br0ther_Ey3"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Br0ther_Ey3&theme=graywhite&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/blackarch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=blackarch&theme=graywhite&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/backdoor-handler"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=gsvprharsha&repo=backdoor-handler&theme=graywhite&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/port-scanner"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=port-scanner&theme=graywhite&hide_border=true&show_icons=true"></a>  
+  <a href="https://github.com/gsvprharsha/Lambda-Bash-Theme-For-Linux"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gsvprharsha&repo=Lambda-Bash-Theme-For-Linux&theme=graywhite&hide_border=true&show_icons=true"></a>
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 
 ## Github stats
 <p align="center">
-    <img alt"gsvprharsha's github stats" src="https://streak-stats.demolab.com?user=gsvprharsha&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="192px">
+    <img alt"gsvprharsha's github stats" src="https://streak-stats.demolab.com?user=gsvprharsha&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" height="192px">
 
 ## Find Me On
 <p align="center">
